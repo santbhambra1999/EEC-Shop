@@ -12,13 +12,13 @@ export const products = [
           color: "White",
           colorCode: "#FFFFFF",
           image:
-            "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-iPhone-14-Plus-2up-starlight-220907-geo_inline.jpg.large.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688622161445-iphone14-white.png?alt=media&token=fe2065e5-fdfe-4a6f-baa6-380b5fad90b8",
         },
         {
           color: "Gray",
           colorCode: "#808080",
           image:
-            "https://www.apple.com/newsroom/images/product/iphone/geo/Apple-iPhone-14-Pro-iPhone-14-Pro-Max-space-black-220907-geo_inline.jpg.large.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688622165836-iphone14-gray.png?alt=media&token=58f684db-998e-43eb-aa06-efe3d6ccfad4",
         },
       ],
       reviews: [],
@@ -37,7 +37,7 @@ export const products = [
           color: "Black",
           colorCode: "#000000",
           image:
-            "https://resource.logitech.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/logitech/en/products/keyboards/mx-keys-s/product-gallery/graphite/mx-keys-s-keyboard-top-view-graphite-us-intl.png?v=1",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688529886610-black-logitech-keyboard.jpg?alt=media&token=353aa276-1316-4e50-bc26-8e3828fe6cdd",
         },
       ],
       reviews: [
@@ -77,19 +77,19 @@ export const products = [
           color: "Black",
           colorCode: "#000000",
           image:
-            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-black-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202741000",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1686386605041-iphone12-black.jpg?alt=media&token=32abf316-ddf6-4870-9e1e-a7c884b750d6",
         },
         {
           color: "Blue",
           colorCode: " #0000FF",
           image:
-            "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/refurb-iphone-12-blue-2020?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1635202745000",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1686386607274-iphone12-blue.jpg?alt=media&token=e83a9b13-86b6-4518-9f1e-8ddef12ba9a2",
         },
         {
           color: "Red",
           colorCode: "#FF0000",
           image:
-            "https://i.ebayimg.com/images/g/6PQAAOSwAoViWCBE/s-l1600.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1686386608652-iphone12-red.jpg?alt=media&token=603a9e86-5b8c-4f8d-b61c-c1c77e60e954",
         },
       ],
       reviews: [
@@ -150,7 +150,7 @@ export const products = [
           color: "Graphite",
           colorCode: " #383838",
           image:
-            "https://assets.onbuy.com/i26/product/220786b786b34af6816af3634490e757-m91226763/logitech-mx-master-2s-wireless-mouseuse-on-any-surfacehyper-fast-scrollingergonomic-shaperechargeablecontrol-up-to-3-apple-mac-and-windows-computers.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688529379028-logitech-graphite-mouse.jpg?alt=media&token=f9dfba29-832f-4c58-88c6-a7a0ae6b22bf",
         },
       ],
       reviews: [],
@@ -169,13 +169,13 @@ export const products = [
           color: "Black",
           colorCode: "#000000",
           image:
-            "https://www.gosupps.com/media/catalog/product/7/1/71qo8z3vv8l._ac_sl1500_.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688041293609-watch-black.jpg?alt=media&token=270f918c-d9f5-41a2-ad32-45d5f3c66bf0",
         },
         {
           color: "Silver",
           colorCode: "#C0C0C0",
           image:
-            "https://m.media-amazon.com/images/I/71Bsa+a5zTL._AC_SL1500_.jpg",
+            "https://firebasestorage.googleapis.com/v0/b/ecommerce-shop-cc542.appspot.com/o/products%2F1688041295389-watch-silver.jpg?alt=media&token=7341e7f0-5c29-4f91-a7e3-57e50faafb74",
         },
       ],
       reviews: [],
